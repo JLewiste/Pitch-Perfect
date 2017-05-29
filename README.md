@@ -1,4 +1,4 @@
-# Pitch-Perfect
+# Pitch perfect
 
 ![Pictures](Pictures/voice.png)
 
